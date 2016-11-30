@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f70e35db4ec26014b9a478cbd97afdc4
+timeCreated: 1448220016
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 10
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - CrEAtoR cAmpoTYPe SmcP Small
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
