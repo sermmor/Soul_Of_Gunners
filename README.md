@@ -33,5 +33,6 @@ You can download a executable file of this game in [itch.io](https://jeviathorga
 ## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Soul_Of_Gunners/master/Capture.png)
 
-**IMPORTANT NOTE**: Images, audio and music don't included in this public repository.
+**IMPORTANT NOTE**: Images, audio and music don't included in this public repository. 
+
 **IMPORTANT NOTE 2**: I finished this project in December 2015, and I won't do an update of this anymore.
