@@ -1,4 +1,9 @@
 # Soul Of Gunners
+
+**IMPORTANT NOTE**: Images, audio and music don't included in this public repository. 
+
+**IMPORTANT NOTE 2**: I finished this project in December 2015, and I won't do an update of this anymore.
+
 ## What is it?
 Run 'n' gun videogame with four simple enemies and one final boss. This video game has 3 difficulty modes (easy, medium and hard) and a final score ranking.
 
@@ -28,7 +33,7 @@ Unity Engine 5 and C#.
 - Use Gun button + Jump + Up button for shoot to up while float.
 
 ## Executable
-You can download a executable file of this game in [itch.io](https://sermmor.itch.io/space-wave)
+You can download a executable file of this game in [itch.io](https://jeviathorgames.itch.io/soul-of-gunners)
 
 ## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Soul_Of_Gunners/master/Capture.png)
