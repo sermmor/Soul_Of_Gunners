@@ -28,7 +28,7 @@ Unity Engine 5 and C#.
 - Use Gun button + Jump + Up button for shoot to up while float.
 
 ## Executable
-You can download a executable file of this game in [itch.io](https://jeviathorgames.itch.io/soul-of-gunners)
+You can download a executable file of this game in [itch.io](https://sermmor.itch.io/space-wave)
 
 ## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Soul_Of_Gunners/master/Capture.png)
